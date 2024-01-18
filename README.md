@@ -39,7 +39,7 @@ This Python script retrieves the live stock price using the Alpha Vantage API. I
    - Replace `'YOUR_API_KEY'` in the script with your actual Alpha Vantage API key.
 
 2. **Stock Symbol:**
-   - Replace `'TSLA'` in the script with the stock symbol for which you want to get the live price.
+   - Replace `'AAPL'` in the script with the stock symbol for which you want to get the live price.
 
 3. **Run the Script:**
    - Execute the script to see the live price of the specified stock.
